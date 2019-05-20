@@ -1,0 +1,3 @@
+void testfunction() {
+	printf("testtest");
+}
